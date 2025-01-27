@@ -1,0 +1,39 @@
+﻿@page
+@model IEnumerable<Query_Management_App.Models.Query>
+@{
+    ViewData["Title"] = "Query Management";
+}
+
+
+<h2>Query Management</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Requestor</th>
+            <th>Status</th>
+            <th>Created At</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var query in Model)
+        {
+            <tr>
+                <td>@query.Id</td>
+                <td>@query.Requestor</td>
+                <td>@query.Status</td>
+                <td>@query.CreatedAt.ToString("g")</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Perform" asp-route-id="@query.Id">Perform</a>
+                    <a class="btn btn-success btn-sm" asp-action="Resolve" asp-route-id="@query.Id">Resolve</a>
+                    <a class="btn btn-warning btn-sm" asp-action="OnHold" asp-route-id="@query.Id">On Hold</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Cancel" asp-route-id="@query.Id">Cancel</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Raise">Raise New Query</a>

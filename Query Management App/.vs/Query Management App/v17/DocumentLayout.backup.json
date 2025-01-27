@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8A44E-34C9-4DD7-B573-5EE91B35BAFB}|Query Management App.csproj|c:\\users\\anura\\onedrive\\desktop\\2025\\query management app\\views\\query\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CB8A44E-34C9-4DD7-B573-5EE91B35BAFB}|Query Management App.csproj|solutionrelative:views\\query\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8A44E-34C9-4DD7-B573-5EE91B35BAFB}|Query Management App.csproj|c:\\users\\anura\\onedrive\\desktop\\2025\\query management app\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8A44E-34C9-4DD7-B573-5EE91B35BAFB}|Query Management App.csproj|solutionrelative:controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8A44E-34C9-4DD7-B573-5EE91B35BAFB}|Query Management App.csproj|c:\\users\\anura\\onedrive\\desktop\\2025\\query management app\\models\\querydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8A44E-34C9-4DD7-B573-5EE91B35BAFB}|Query Management App.csproj|solutionrelative:models\\querydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Views\\Query\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Query\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Views\\Query\\Index.cshtml",
+              "RelativeToolTip": "Views\\Query\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:15:42.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryController.cs",
+              "DocumentMoniker": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Controllers\\QueryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QueryController.cs",
+              "ToolTip": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Controllers\\QueryController.cs",
+              "RelativeToolTip": "Controllers\\QueryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:14:30.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Models\\QueryDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\QueryDbContext.cs",
+              "ToolTip": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Models\\QueryDbContext.cs",
+              "RelativeToolTip": "Models\\QueryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:14:22.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Query Management App.props" />
+</Project>
