@@ -46,3 +46,52 @@ C:\Users\anura\OneDrive\Desktop\2025\Query Management App\obj\Debug\net8.0\Query
 C:\Users\anura\OneDrive\Desktop\2025\Query Management App\obj\Debug\net8.0\Query Management App.genruntimeconfig.cache
 C:\Users\anura\OneDrive\Desktop\2025\Query Management App\obj\Debug\net8.0\ref\Query Management App.dll
 C:\Users\anura\OneDrive\Desktop\2025\Query Management App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\appsettings.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.staticwebassets.endpoints.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.staticwebassets.runtime.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.exe
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.deps.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.runtimeconfig.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Query Management App.pdb
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.csproj.AssemblyReference.cache
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.AssemblyInfoInputs.cache
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.AssemblyInfo.cs
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.csproj.CoreCompileInputs.cache
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.RazorAssemblyInfo.cache
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.RazorAssemblyInfo.cs
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.sourcelink.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\scopedcss\bundle\Query Management App.styles.css
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\scopedcss\projectbundle\Query Management App.bundle.scp.css
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets\msbuild.Query Management App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets\msbuild.Query Management App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets\msbuild.build.Query Management App.props
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Query Management App.props
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Query Management App.props
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Ma.819D12B3.Up2Date
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\refint\Query Management App.dll
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.pdb
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\Query Management App.genruntimeconfig.cache
+C:\Users\anura\OneDrive\Desktop\2025\.net-core-8\Query Management App\obj\Debug\net8.0\ref\Query Management App.dll

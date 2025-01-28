@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+EdJxTePA3M=",
+  "dgSpecHash": "Yu1oI6yQcPI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\Query Management App\\Query Management App.csproj",
+  "projectFilePath": "C:\\Users\\anura\\OneDrive\\Desktop\\2025\\.net-core-8\\Query Management App\\Query Management App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anura\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
     "C:\\Users\\anura\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",

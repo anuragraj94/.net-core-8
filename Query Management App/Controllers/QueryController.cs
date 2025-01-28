@@ -104,5 +104,17 @@ namespace Query_Management_App.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+
+
+        public IActionResult Delete(int id)
+        {
+            var query = _context.Queries.Find(id);
+            if (query != null)
+            {
+                _context.Queries.Remove(query);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
